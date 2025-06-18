@@ -1,69 +1,117 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Pokémon',
+    'Qual é o tipo de Pokémon Pikachu?',
+    'Elétrico.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Pokémon',
+    'Qual é o nome do inicial de fogo na primeira geração?',
+    'Charmander.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Pokémon',
+    'Qual Pokémon evolui para Charizard?',
+    'Charmander evolui para Charmeleon, que evolui para Charizard.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Pokémon',
+    'Qual é o tipo de Pokémon que é forte contra Pokémon de água?',
+    'Elétrico ou Planta.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Pokémon',
+    'Qual é o Pokémon que é conhecido por sua habilidade de voar e tem uma cor predominante azul?',
+    'Pidgey ou Pidgeot.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Pokémon',
+    'Qual Pokémon é famoso por seu canto e é do tipo Normal?',
+    'Jigglypuff.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Pokémon',
+    'Qual Pokémon é conhecido por sua habilidade de transformar objetos em itens de cura?',
+    'Ditto (quancriaCartao(
+    'Pokémon',
+    'Qual é o tipo de Pokémon Pikachu?',
+    'Elétrico.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Pokémon',
+    'Qual é o nome do inicial de fogo na primeira geração?',
+    'Charmander.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Pokémon',
+    'Qual Pokémon evolui para Charizard?',
+    'Charmander evolui para Charmeleon, que evolui para Charizard.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Pokémon',
+    'Qual é o tipo de Pokémon que é forte contra Pokémon de água?',
+    'Elétrico ou Planta.'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual é o Pokémon que é conhecido por sua habilidade de voar e tem uma cor predominante azul?',
+    'Pidgey ou Pidgeot.'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual Pokémon é famoso por seu canto e é do tipo Normal?',
+    'Jigglypuff.'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual Pokémon é conhecido por sua habilidade de transformar objetos em itens de cura?',
+    'Ditto (quando se transforma em outros Pokémon).'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual Pokémon é o mascote da franquia?',
+    'Pikachu.'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual é o tipo de Pokémon que é fraco contra Pokémon de Terra?',
+    'Elétrico (devido à sua imunidade a ataques de Terra).'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual Pokémon tem uma cabeça de caveira e é conhecido por seu ataque de máscara?',
+    'Gengar.'
+)do se transforma em outros Pokémon).'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual Pokémon é o mascote da franquia?',
+    'Pikachu.'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual é o tipo de Pokémon que é fraco contra Pokémon de Terra?',
+    'Elétrico (devido à sua imunidade a ataques de Terra).'
+)
+
+criaCartao(
+    'Pokémon',
+    'Qual Pokémon tem uma cabeça de caveira e é conhecido por seu ataque de máscara?',
+    'Gengar.'
 )
