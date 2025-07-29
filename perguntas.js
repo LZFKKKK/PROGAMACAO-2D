@@ -37,7 +37,9 @@ criaCartao(
 criaCartao(
     'Pokémon',
     'Qual Pokémon é conhecido por sua habilidade de transformar objetos em itens de cura?',
-    'Ditto (quancriaCartao(
+    'Ditto.'
+    
+criaCartao(
     'Pokémon',
     'Qual é o tipo de Pokémon Pikachu?',
     'Elétrico.'
