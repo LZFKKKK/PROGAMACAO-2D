@@ -95,8 +95,6 @@ criaCartao(
     'Pokémon',
     'Qual Pokémon tem uma cabeça de caveira e é conhecido por seu ataque de máscara?',
     'Gengar.'
-)do se transforma em outros Pokémon).'
-)
 
 criaCartao(
     'Pokémon',
